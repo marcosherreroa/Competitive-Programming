@@ -1,0 +1,4 @@
+﻿  RelojProgramable.cpp
+c:\users\marco\documents\competitive-programming\programas de aceptaelreto\585. el reto del reloj programable\relojprogramable.cpp(13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\marco\documents\competitive-programming\programas de aceptaelreto\585. el reto del reloj programable\relojprogramable.cpp(22): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  585. El reto del reloj programable.vcxproj -> C:\Users\marco\Documents\Competitive-Programming\Programas de aceptaelreto\585. El reto del reloj programable\Debug\585. El reto del reloj programable.exe
